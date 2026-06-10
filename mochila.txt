@@ -1,0 +1,5 @@
+Item: Espadas, cantidad: 6|
+Cantidad total de items: 6|
+Item: Escudo, cantidad: 1|
+Cantidad total de items: 7|
+Item: espada, cantidad: 3|

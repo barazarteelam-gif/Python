@@ -1,0 +1,4 @@
+REPORTE DE NOTAS--------------------
+Alumnos:Ana       | Nota: 10
+Alumnos:Luis      | Nota:  6
+Alumnos:Pedro     | Nota:  7

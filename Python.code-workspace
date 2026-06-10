@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Html-Center"
+		},
+		{
+			"path": "../examen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Html-Center"
+	}
+}
